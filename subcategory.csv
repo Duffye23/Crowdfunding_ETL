@@ -1,25 +1,25 @@
 subcategory_id,subcategory
-1,metal
-2,electric music
-3,indie rock
-4,radio & podcasts
+1,jazz
+2,nonfiction
+3,audio
+4,shorts
 5,wearables
-6,fiction
-7,television
-8,jazz
+6,television
+7,rock
+8,indie rock
 9,video games
-10,web
-11,mobile games
-12,photography books
-13,documentary
-14,plays
-15,shorts
-16,translations
-17,animation
-18,food trucks
-19,rock
-20,drama
-21,science fiction
-22,nonfiction
-23,audio
-24,world music
+10,food trucks
+11,animation
+12,electric music
+13,web
+14,fiction
+15,translations
+16,world music
+17,mobile games
+18,plays
+19,metal
+20,radio & podcasts
+21,drama
+22,science fiction
+23,documentary
+24,photography books
