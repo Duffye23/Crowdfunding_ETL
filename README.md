@@ -2,6 +2,9 @@
 Carleton Bootcamp Project 2: Extract Load Transform
 # code ETL_Mini_Project
 [ETL_Mini_Project_EDuffy_Kfahr.ipynb](https://github.com/Duffye23/Crowdfunding_ETL/blob/main/ETL_Mini_Project_EDuffy_Kfahr.ipynb)
+https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/campaign.csv 
+
+
 #  Create the Category and Subcategory DataFrames
 ## Extract and transform the crowdfunding.xlsx Excel data to create a category DataFrame that has the following columns:
 			 cf_id	        contact_id	   goal	        pledged	      backers_count	launched_at	deadline
