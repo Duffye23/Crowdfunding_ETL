@@ -25,6 +25,11 @@ import re
 
 #  Create the Category and Subcategory DataFrames
 ## Extract and transform the crowdfunding.xlsx Excel data to create a category DataFrame that has the following columns:
+
+```
+ 
+ 
+```
 			 cf_id	        contact_id	   goal	        pledged	      backers_count	launched_at	deadline
    	### count	1000.000000	1000.000000	1000.000000	1000.000000	1000.000000	1.000000e+03	1.000000e+03
 	### mean	1585.743000	3751.434000	43983.100000	42748.055000	727.005000	1.610955e+09	1.627459e+09
@@ -64,21 +69,24 @@ https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/schema_creation
 
 
 ## Each CSV file is imported into the appropriate table without errors 
-
+```
+ 
+ 
+```
 ## The data from each table is displayed using a SELECT * statement 
-### campaign_select_proof.png
+  ### campaign_select_proof.png
 Resources/campaign_select_proof.png
-https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/campaign_select_proof.png
-### campaign_select_proof.png
-https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/campaign_select_proof.png
-### campaign_select_proof.png
-https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/campaign_select_proof.png
-### campaign_select_proof.png
-https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/campaign_select_proof.png
+<img src="https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/campaign_select_proof.png" />
+  ### category_select_proof.png
+<img src="https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/category_select_proof.png" />
+  ### contacts_select_proof.png
+<img src="https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/contacts_select_proof.png" />
+ ### subcategory_select_proof.png
+<img src="https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/subcategory_select_proof.png" />
 
 
 # Team Members 
-## Khadija Fahr 
-## Evan Duffy
+  ### Khadija Fahr 
+  ### Evan Duffy
 
 
