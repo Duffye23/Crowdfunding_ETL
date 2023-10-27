@@ -28,7 +28,14 @@ import re
 ```
 # Read the data into a Pandas DataFrame
 crowdfunding_info_df = pd.read_excel('Resources/crowdfunding.xlsx')
-crowdfunding_info_df.head() 
+crowdfunding_info_df.head()
+# Get a brief summary of the crowdfunding_info DataFrame.
+crowdfunding_info = crowdfunding_info_df.info()
+crowdfunding_info_summary = crowdfunding_info_df.describe()
+
+#print(summary_description)
+crowdfunding_info
+crowdfunding_info_summary.head()
 ```
 
 			 cf_id	        contact_id	   goal	        pledged	      backers_count	launched_at	deadline
