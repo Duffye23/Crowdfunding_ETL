@@ -70,16 +70,17 @@ https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/contacts.csv
 ## A database schema labeled, crowdfunding_db_schema.sql is created 
 https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/schema_creation.sql
 ## A crowdfunding_db is created using the crowdfunding_db_schema.sql file 
-https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/select_all_script.sql
 ## The database has the appropriate primary and foreign keys and relationships 
 <img src="https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/crowdfunding_ERD.png" />
 
 ## Each CSV file is imported into the appropriate table without errors 
 ```
- 
- 
+### Import each CSV file into its corresponding SQL table.
+under the SQL Db already create , in the each table , right clic on it and clic on Import/export , specify the link of the CSV file and add header  and click ok  to import this CSV file in the corresponding SQL table  
 ```
 ## The data from each table is displayed using a SELECT * statement 
+https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/select_all_script.sql
+
 ### campaign_select_proof.png
   Resources/campaign_select_proof.png
   <img src="https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/campaign_select_proof.png" />
