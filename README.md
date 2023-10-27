@@ -85,7 +85,8 @@ https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/select_all_scri
  <img src="https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/campaign_select_proof.png" />
   
 ### category_select_proof.png
- <img src="https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/category_select_proof.png" />
+
+<img src="https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/category_select-proof.png" />
 
 ### subcategory_select_proof.png
  <img src="https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/subcategory_select_proof.png" />
