@@ -70,6 +70,7 @@ https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/contacts.csv
 ## A database schema labeled, crowdfunding_db_schema.sql is created 
 https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/schema_creation.sql
 ## A crowdfunding_db is created using the crowdfunding_db_schema.sql file 
+https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/crowdfunding_db.sql
 ## The database has the appropriate primary and foreign keys and relationships 
 <img src="https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/crowdfunding_ERD.png" />
 
