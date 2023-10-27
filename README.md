@@ -47,6 +47,7 @@ https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/crowdfunding_ER
 
 ## The data from each table is displayed using a SELECT * statement 
 ### campaign_select_proof.png
+Resources/campaign_select_proof.png
 https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/campaign_select_proof.png
 ### campaign_select_proof.png
 https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/campaign_select_proof.png
