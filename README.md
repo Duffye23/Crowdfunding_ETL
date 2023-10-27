@@ -56,7 +56,7 @@ https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/select_all_scri
 https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/schema_creation.sql
 ## The database has the appropriate primary and foreign keys and relationships 
 
-<img src="[https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/crowdfunding_ERD.png]()" />
+<img src="https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/crowdfunding_ERD.png" />
 
 
 ## Each CSV file is imported into the appropriate table without errors 
