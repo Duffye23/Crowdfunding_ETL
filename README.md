@@ -57,6 +57,8 @@ https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/campaign_select
 https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/campaign_select_proof.png
 
 
-
+# Team Members 
+## Khadija Fahr 
+## Evan Duffy
 
 
