@@ -25,11 +25,12 @@ import re
 
 #  Create the Category and Subcategory DataFrames
 ## Extract and transform the crowdfunding.xlsx Excel data to create a category DataFrame that has the following columns:
+```
+# Read the data into a Pandas DataFrame
+crowdfunding_info_df = pd.read_excel('Resources/crowdfunding.xlsx')
+crowdfunding_info_df.head() 
+```
 
-```
- 
- 
-```
 			 cf_id	        contact_id	   goal	        pledged	      backers_count	launched_at	deadline
    	### count	1000.000000	1000.000000	1000.000000	1000.000000	1000.000000	1.000000e+03	1.000000e+03
 	### mean	1585.743000	3751.434000	43983.100000	42748.055000	727.005000	1.610955e+09	1.627459e+09
