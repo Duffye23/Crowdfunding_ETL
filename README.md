@@ -1,11 +1,10 @@
 # Crowdfunding_ETL
 Carleton Bootcamp Project 2: Extract Load Transform
+# Description
+For the ETL mini project, you will work with a partner to practice building an ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data. After you transform the data, you'll create four CSV files and use the CSV file data to create an ERD and a table schema. Finally, you’ll upload the CSV file data into a Postgres database.
+
 # code ETL_Mini_Project
 [ETL_Mini_Project_EDuffy_Kfahr.ipynb](https://github.com/Duffye23/Crowdfunding_ETL/blob/main/ETL_Mini_Project_EDuffy_Kfahr.ipynb)
-# campaign.csv
-https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/campaign.csv 
-# category.csv
-https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/category.csv
 
 #  Create the Category and Subcategory DataFrames
 ## Extract and transform the crowdfunding.xlsx Excel data to create a category DataFrame that has the following columns:
@@ -16,22 +15,33 @@ https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/category.csv
 	### min		23.000000	1235.000000	100.000000	0.000000	0.000000	1.579068e+09	1.609913e+09
 	### 25%		758.750000	2502.750000	4200.000000	5911.250000	86.000000	1.601507e+09	1.619672e+09
 
+##  A Category DataFrame is Created
+The category DataFrame is exported as category.csv 
+### category.csv
+https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/category.csv
 
-## A "category_id" column that has entries going sequentially from "cat1" to "catn", where n is the number of unique categories
+##  A Subcategory DataFrame is Created 
+The subcategory DataFrame is exported as subcategory.csv 
+### subcategory.csv 
+https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/subcategory.csv 
 
-## A "category" column that contains only the category titles
+## A Campaign DataFrame is Created 
+ The campaign DataFrame is exported as campaign.csv 
+ ### campaign.csv
+https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/campaign.csv 
 
-The following image shows this category DataFrame:
- 
-## Export the category DataFrame as category.csv and save it to your GitHub repository.
+## A Contacts DataFrame is Created 
+The contacts DataFrame is exported as contacts.csv 
+### contacts.csv 
+https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/contacts.csv 
 
-## Extract and transform the crowdfunding.xlsx Excel data to create a subcategory DataFrame that has the following columns:
+## A Crowdfunding Database is Created 
 
-## A "subcategory_id" column that has entries going sequentially from "subcat1" to "subcatn", where n is the number of unique subcategories
+## A database schema labeled, crowdfunding_db_schema.sql is created 
+## A crowdfunding_db is created using the crowdfunding_db_schema.sql file 
+## The database has the appropriate primary and foreign keys and relationships 
+## Each CSV file is imported into the appropriate table without errors 
+## The data from each table is displayed using a SELECT * statement 
 
-## A "subcategory" column that contains only the subcategory titles
-
-## The following image shows this subcategory DataFrame:
- 
 
 
