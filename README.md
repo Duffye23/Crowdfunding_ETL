@@ -12,12 +12,16 @@ The instructions for this mini project are divided into the following subsection
 # code ETL_Mini_Project
 https://github.com/Duffye23/Crowdfunding_ETL/blob/main/ETL_Mini_Project_EDuffy_Kfahr.ipynb
 
-# Import dependencies
-import pandas as pd
+  # Import dependencies
+```
+ import pandas as pd
 import numpy as np
 pd.set_option('max_colwidth', 400)
 from datetime import datetime as dt
 import re
+ 
+```
+
 
 #  Create the Category and Subcategory DataFrames
 ## Extract and transform the crowdfunding.xlsx Excel data to create a category DataFrame that has the following columns:
