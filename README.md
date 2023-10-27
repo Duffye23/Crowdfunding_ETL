@@ -70,8 +70,6 @@ https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/contacts.csv
 ## A database schema labeled, crowdfunding_db_schema.sql is created 
 https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/crowdfunding_db_schema.sql
 ```
--- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
--- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
 DROP TABLE IF EXISTS Category;
 DROP TABLE IF EXISTS Subcategory;
 DROP TABLE IF EXISTS Campaign;
@@ -119,7 +117,15 @@ CREATE TABLE campaign (
 ## A crowdfunding_db is created using the crowdfunding_db_schema.sql file 
 https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/crowdfunding_db.sql
 ```
- 
+   CREATE DATABASE crowdfunding_db
+    WITH
+    OWNER = postgres
+    ENCODING = 'UTF8'
+    LC_COLLATE = 'English_Canada.1252'
+    LC_CTYPE = 'English_Canada.1252'
+    TABLESPACE = pg_default
+    CONNECTION LIMIT = -1
+    IS_TEMPLATE = False;
  
 ```
 
