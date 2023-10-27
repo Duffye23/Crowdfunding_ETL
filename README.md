@@ -9,6 +9,11 @@ The instructions for this mini project are divided into the following subsection
 * Create the Contacts DataFrame
 * Create the Crowdfunding Database
 
+# Detail Report of my 5 days workshop in RTL design Verilog with SKY130 Technology.
+# Platform labs :Remote access in the portal
+# Technology :130nm
+# Open source tools: iverilog (simulator) , YOSYS (synthesis) 
+
 # code ETL_Mini_Project
 https://github.com/Duffye23/Crowdfunding_ETL/blob/main/ETL_Mini_Project_EDuffy_Kfahr.ipynb
 
