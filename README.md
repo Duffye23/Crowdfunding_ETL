@@ -82,18 +82,21 @@ under the SQL Db already create , in the each table , right clic on it and clic 
 https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/select_all_script.sql
 
 ### campaign_select_proof.png
-  Resources/campaign_select_proof.png
   <img src="https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/campaign_select_proof.png" />
+  
 ### category_select_proof.png
  <img src="https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/category_select_proof.png" />
-### contacts_select_proof.png
-<img src="https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/contacts_select_proof.png" />
+
 ### subcategory_select_proof.png
 <img src="https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/subcategory_select_proof.png" />
 
+### contacts_select_proof.png
+<img src="https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/contacts_select_proof.png" />
+
+
 
 # Team Members 
-  ### Khadija Fahr 
-  ### Evan Duffy
+   ### Khadija Fahr 
+   ### Evan Duffy
 
 
