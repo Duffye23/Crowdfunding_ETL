@@ -41,7 +41,18 @@ https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/contacts.csv
 ## A crowdfunding_db is created using the crowdfunding_db_schema.sql file 
 ## The database has the appropriate primary and foreign keys and relationships 
 ## Each CSV file is imported into the appropriate table without errors 
+
 ## The data from each table is displayed using a SELECT * statement 
+### campaign_select_proof.png
+https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/campaign_select_proof.png
+### campaign_select_proof.png
+https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/campaign_select_proof.png
+### campaign_select_proof.png
+https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/campaign_select_proof.png
+### campaign_select_proof.png
+https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/campaign_select_proof.png
+
+
 
 
 
