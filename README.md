@@ -74,14 +74,14 @@ https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/schema_creation
  
 ```
 ## The data from each table is displayed using a SELECT * statement 
-  ### campaign_select_proof.png
-Resources/campaign_select_proof.png
-<img src="https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/campaign_select_proof.png" />
-  ### category_select_proof.png
-<img src="https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/category_select_proof.png" />
-  ### contacts_select_proof.png
+### campaign_select_proof.png
+  Resources/campaign_select_proof.png
+  <img src="https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/campaign_select_proof.png" />
+### category_select_proof.png
+ <img src="https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/category_select_proof.png" />
+### contacts_select_proof.png
 <img src="https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/contacts_select_proof.png" />
- ### subcategory_select_proof.png
+### subcategory_select_proof.png
 <img src="https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/subcategory_select_proof.png" />
 
 
