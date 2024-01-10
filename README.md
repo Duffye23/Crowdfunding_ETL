@@ -155,8 +155,3 @@ https://github.com/Duffye23/Crowdfunding_ETL/blob/main/Resources/select_all_scri
 
 
 
-# Team Members 
-   ### Khadija Fahr 
-   ### Evan Duffy
-
-
